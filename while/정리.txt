@@ -1,0 +1,10 @@
+while: ex. i=1 while(i<=100) i++
+
+do while  
+
+break  코드 탈출
+
+continew  반복문 일시 탈출
+
+주석: /* */
+다음 주 추가 설명
