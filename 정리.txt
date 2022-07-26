@@ -1,0 +1,9 @@
+switch-case: switch(정수형 상수)
+             {
+               case 특정값;
+               break;
+              }
+break:switch는 폭포수(위조건에서 걸릴 경우 아래에 있는 조건까지 다 실행되는 성질)형태이므로 break를 써서 원하는 곳에서 탈출할 수 있도록 해줌
+default: 주어진 case이외에 모든 값에 대해 동작함 다중 if문의 else와 유사 default는 조건을 안 써도 된다.
+switch문을 if문으로 바꾸는 것은 쉽지만 if문을 switch문으로 바꾸는 것은 어렵다
+달력 응용: 일주일은 7일이기때문에 날짜를 7로 나누면 해당 요일을 알 수 있다.
