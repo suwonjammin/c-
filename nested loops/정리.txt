@@ -1,0 +1,12 @@
+nested loops(다중 for문)
+ex. for(i=1;i<=5;i++)
+    {
+      for(j=1;j<=5;j++)
+      {
+        printf("%d",j);
+      }
+    }
+배수와 약수 확인하기
+ex. m%n==0
+   m은 n의 배수 이다.
+   n은 m의 약수이다.
